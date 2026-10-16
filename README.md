@@ -1,98 +1,107 @@
+<a href="https://adrein.dev">
+  <img src="assets/hero.svg" width="100%" alt="Adrein — Digital experiences that move. UI/UX Designer · Full-Stack Developer · AI Automation">
+</a>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xandra-X/xandrax/main/xan.jpg"
-       width="200" height="200"
-       style="border-radius:50%;">
+  <a href="https://adrein.dev"><img src="https://img.shields.io/badge/Portfolio-adrein.dev-a5f3fc?style=for-the-badge&labelColor=03040a" alt="Portfolio"></a>
+  <a href="mailto:adrein.dev@gmail.com"><img src="https://img.shields.io/badge/Email-adrein.dev@gmail.com-f5d0fe?style=for-the-badge&labelColor=03040a&logo=gmail&logoColor=f5d0fe" alt="Email"></a>
+  <a href="https://www.tiktok.com/@chillin_drax"><img src="https://img.shields.io/badge/TikTok-@chillin__drax-ffffff?style=for-the-badge&labelColor=03040a&logo=tiktok&logoColor=white" alt="TikTok"></a>
 </p>
-<h1 align="center">Hi 👋, I'm Xan Drax</h1>
-<h3 align="center">UI Designer | Full-Stack Developer | AI Automation Service Maker</h3>
 
----
+<br>
 
-🚀 I design and build modern digital experiences for businesses and personal brands.  
-🎨 Focused on clean UI, smooth user experience, and responsive web design.  
-💻 I work with front-end, back-end, and automation tools to create real business solutions.  
-🤖 I build AI chatbots, business automation systems, and smart workflows.  
-🌱 Currently learning: Three.js, advanced automation, and scalable systems.  
-📌 Open to collaborations, freelance projects, and creative tech ideas.
+### `01 / about`
 
----
+> **Not just pixels. Not just code.**
+> I create digital products with a designer’s eye and a developer’s execution — interfaces that are clear, smooth, useful, and impossible to ignore.
 
-## 🛠️ Languages
+```ts
+const adrein = {
+  role:      ["UI/UX Designer", "Full-Stack Developer", "AI Automation Builder"],
+  based:     "Bangkok, Thailand",
+  studying:  "Information Technology @ Assumption University",
+  process:   "Design → Build → Deliver",
+  learning:  ["Three.js", "advanced automation", "scalable systems"],
+  openTo:    ["freelance", "collaborations", "creative tech ideas"],
+};
+```
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/-SwiftUI-0D1117?style=flat-square&logo=swift&logoColor=orange)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<br>
 
----
+### `02 / stack`
 
-## 🎨 Design & Creative Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ps,react,nextjs,tailwind,html,css,js,ts&theme=dark" height="44" alt="Design & frontend"><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,python,java,kotlin,swift,threejs,vscode,androidstudio&theme=dark" height="44" alt="Backend, mobile & tools">
+</p>
 
-![Figma](https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![Spline](https://img.shields.io/badge/-Spline-FF6B6B?style=flat-square&logo=spline&logoColor=white)
+| `01` Design | `02` Frontend | `03` Backend |
+| :-- | :-- | :-- |
+| UX research, interface design, prototyping in Figma | React, Tailwind, responsive layouts, interactive experiences | Node.js, APIs, auth, databases, dashboards, deployment |
+| **`04` Motion** | **`05` Automation** | **`06` Product** |
+| Scroll reveals, micro-interactions, cinematic transitions | AI workflows, n8n, Google Sheets systems, bots, lead capture | User flows, problem solving, client communication |
 
----
+<br>
 
-## ⚙️ Development Tools
+### `03 / selected work`
 
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
-![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://albedofigure.onrender.com/"><img src="assets/projects/albedo.jpg" alt="Albedo Guardian Archive"></a>
+      <br><b><a href="https://albedofigure.onrender.com/">Albedo Guardian Archive ↗</a></b>
+      <br><sub><code>3D</code> <code>Three.js</code> <code>Motion</code></sub>
+      <br><sub>An interactive fan archive with a real-time 3D figure, a glowing summoning circle and dark-fantasy type.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://spidy-53wm.onrender.com/"><img src="assets/projects/spidy.jpg" alt="Spider-Man 2 landing page"></a>
+      <br><b><a href="https://spidy-53wm.onrender.com/">Spider-Man 2 Landing Page ↗</a></b>
+      <br><sub><code>Web Design</code> <code>Motion</code> <code>Frontend</code></sub>
+      <br><sub>A cinematic PS5 game page: moody night-city hero, bold editorial type, scroll-driven storytelling.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://safetravel-fy2y.onrender.com/"><img src="assets/projects/safetravel.jpg" alt="Safe Travel app"></a>
+      <br><b><a href="https://safetravel-fy2y.onrender.com/">Safe Travel ↗</a></b>
+      <br><sub><code>iOS</code> <code>SwiftUI</code> <code>Firebase</code> <code>MapKit</code></sub>
+      <br><sub>A travel safety companion that keeps people informed, prepared and protected while exploring.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://humioshow.onrender.com/"><img src="assets/projects/humio.jpg" alt="Humio HR management app"></a>
+      <br><b><a href="https://humioshow.onrender.com/">Humio — HR Management ↗</a></b>
+      <br><sub><code>Android</code> <code>Kotlin</code> <code>REST API</code></sub>
+      <br><sub>Attendance, leave requests, employee records and workforce operations in one place.</sub>
+    </td>
+  </tr>
+</table>
 
----
+<p align="center"><a href="https://adrein.dev/#projects"><b>See every project on adrein.dev →</b></a></p>
 
-## ⚡ Services
+<br>
 
-- UI/UX Design  
-- Website Design & Development  
-- Full-Stack Web Development
-- Ios & Android App Development
-- AI Chatbot Development  
-- Facebook Messenger Automation  
-- Telegram Bot Automation  
-- Business Workflow Automation  
-- Social Media Automation Systems  
+### `04 / services`
 
----
+<table>
+  <tr>
+    <td>🎨 UI/UX Design</td>
+    <td>🌐 Websites & Landing Pages</td>
+    <td>🧱 Full-Stack Web Apps</td>
+  </tr>
+  <tr>
+    <td>📱 iOS & Android Apps</td>
+    <td>🤖 AI Chatbots</td>
+    <td>💬 Messenger & Telegram Bots</td>
+  </tr>
+  <tr>
+    <td>⚙️ Business Workflow Automation</td>
+    <td>📊 Dashboards</td>
+    <td>📣 Social Media Automation</td>
+  </tr>
+</table>
 
-## 🚀 Featured Projects
+<br>
 
-### 🔥 Local Brand Website
-A modern business website crafted for a local clothing brand with sleek visuals, smooth interactions, and a clean shopping-focused experience.
-🔗 [Otaku](https://otaku-d4ke.onrender.com/index.html)
-
-### 🎨 Portfolio Website
-An immersive personal portfolio experience featuring fluid animations, layered transitions, and a bold futuristic visual identity.
-🔗 [Portfolio](https://xan-draxx-portfolio.onrender.com/)
-
-### 🤖 Portfolio Figma Design
-A Figma concept focused on modern UI aesthetics, dynamic layouts, and high-end creative direction for digital portfolios.
-🔗 [Figma Portfolio Design](https://www.figma.com/design/rAjCwpmAJy5QgMfZARIfBr/Portfolio?node-id=0-1&t=m0XjMHSt7MaqOO0N-1)
-
-### 🎉 Party Invitation Landing Page
-A stylish invitation website featuring dynamic animations, responsive design, and an engaging user experience for promoting special events.
-🔗 [Party Invitation](https://partyinvite-1eyo.onrender.com)
-
----
-
-## 📫 Contact Me
-
-📧 Email: xanshock.design@gmail.com  
-📷 TikTok: [@chillin_drax](https://www.tiktok.com/@chillin_drax)
-
----
-
-<h3 align="center">
-Building clean designs, smart systems, and AI automation that help businesses grow.
-</h3>
+<a href="mailto:adrein.dev@gmail.com">
+  <img src="assets/footer.svg" width="100%" alt="Let’s build something people remember — adrein.dev@gmail.com">
+</a>
