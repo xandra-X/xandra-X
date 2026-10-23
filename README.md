@@ -47,6 +47,14 @@ const adrein = {
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <a href="https://weroll.app"><img src="assets/projects/weroll.jpg" alt="WeRoll small-hangout app"></a>
+      <br><b><a href="https://weroll.app">WeRoll — Small Hangouts for University Students ↗</a></b>
+      <br><sub><code>Flutter</code> <code>Supabase</code> <code>React</code> <code>Android</code> <code>iOS</code> <code>Web</code></sub>
+      <br><sub>A full-stack app for verified university students: find or host coffee, study and game meetups, then chat, voice-call and check in with your group. Live on web, Android in Google Play testing.</sub>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://albedofigure.onrender.com/"><img src="assets/projects/albedo.jpg" alt="Albedo Guardian Archive"></a>
       <br><b><a href="https://albedofigure.onrender.com/">Albedo Guardian Archive ↗</a></b>
