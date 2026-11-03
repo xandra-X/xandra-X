@@ -87,13 +87,13 @@ const adrein = {
       <a href="https://humioshow.onrender.com"><img src="assets/projects/humio.jpg" alt="Humio HR Management System"></a>
       <br><b><a href="https://humioshow.onrender.com"">Humio ↗</a></b>
       <br><sub><code>Android</code> <code>Kotlin</code> <code>Firebase</code> <code>REST API</code> <code>Node.js</code></sub>
-      <br><sub>A travel safety companion that keeps people informed, prepared and protected while exploring.</sub>
+      <br><sub>HR system for a small company: employees, departments, shifts, QR attendance, leave, overtime, policies, reports and a report inbox.</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/xandra-X/skyfall-hero"><img src="assets/projects/skyfall.jpg" alt="Skyfall Hero Unity game"></a>
-      <br><b><a href="https://github.com/xandra-X/skyfall-hero">Skyfall Hero — Superhero Game ↗</a></b>
-      <br><sub><code>Unity 6</code> <code>C#</code> <code>3D</code> <code>iOS</code></sub>
-      <br><sub>Fly, smash and laser through a living city, then soar through the clouds into space and onto the Moon.</sub>
+      <a href="https://github.com/xandra-X/skyfall-hero"><img src="assets/projects/adrein.png" alt="3D Portfolio"></a>
+      <br><b><a href="aderien.dev">3D Portfolio ↗</a></b>
+      <br><sub><code>Blender</code> <code>Three.js</code> <code>Lemis</code> <code>React.js</code></sub>
+      <br><sub>My portfolio isn't a page. It's my room.</sub>
     </td>
   </tr>
 </table>
