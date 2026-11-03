@@ -84,9 +84,9 @@ const adrein = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://humioshow.onrender.com"><img src="assets/projects/humio.jpg" alt="Safe Travel app"></a>
-      <br><b><a href="https://safetravel-fy2y.onrender.com/">Safe Travel ↗</a></b>
-      <br><sub><code>iOS</code> <code>SwiftUI</code> <code>Firebase</code> <code>MapKit</code></sub>
+      <a href="https://humioshow.onrender.com"><img src="assets/projects/humio.jpg" alt="Humio HR Management System"></a>
+      <br><b><a href="https://humioshow.onrender.com"">Humio ↗</a></b>
+      <br><sub><code>Android</code> <code>Kotlin</code> <code>Firebase</code> <code>REST API</code> <code>Node.js</code></sub>
       <br><sub>A travel safety companion that keeps people informed, prepared and protected while exploring.</sub>
     </td>
     <td width="50%" valign="top">
