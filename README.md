@@ -84,7 +84,7 @@ const adrein = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://safetravel-fy2y.onrender.com/"><img src="assets/projects/safetravel.jpg" alt="Safe Travel app"></a>
+      <a href="https://humioshow.onrender.com"><img src="assets/projects/humio.jpg" alt="Safe Travel app"></a>
       <br><b><a href="https://safetravel-fy2y.onrender.com/">Safe Travel ↗</a></b>
       <br><sub><code>iOS</code> <code>SwiftUI</code> <code>Firebase</code> <code>MapKit</code></sub>
       <br><sub>A travel safety companion that keeps people informed, prepared and protected while exploring.</sub>
