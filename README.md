@@ -82,6 +82,20 @@ const adrein = {
       <br><sub>Fly, smash and laser through a living city, then soar through the clouds into space and onto the Moon.</sub>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://safetravel-fy2y.onrender.com/"><img src="assets/projects/safetravel.jpg" alt="Safe Travel app"></a>
+      <br><b><a href="https://safetravel-fy2y.onrender.com/">Safe Travel ↗</a></b>
+      <br><sub><code>iOS</code> <code>SwiftUI</code> <code>Firebase</code> <code>MapKit</code></sub>
+      <br><sub>A travel safety companion that keeps people informed, prepared and protected while exploring.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/xandra-X/skyfall-hero"><img src="assets/projects/skyfall.jpg" alt="Skyfall Hero Unity game"></a>
+      <br><b><a href="https://github.com/xandra-X/skyfall-hero">Skyfall Hero — Superhero Game ↗</a></b>
+      <br><sub><code>Unity 6</code> <code>C#</code> <code>3D</code> <code>iOS</code></sub>
+      <br><sub>Fly, smash and laser through a living city, then soar through the clouds into space and onto the Moon.</sub>
+    </td>
+  </tr>
 </table>
 
 <p align="center"><a href="https://adrein.dev/#projects"><b>See every project on adrein.dev →</b></a></p>
