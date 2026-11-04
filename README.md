@@ -34,6 +34,9 @@ const adrein = {
   <img src="https://skillicons.dev/icons?i=figma,ps,react,nextjs,tailwind,html,css,js,ts&theme=dark" height="44" alt="Design & frontend"><br>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,python,java,kotlin,swift,threejs,vscode,androidstudio&theme=dark" height="44" alt="Backend, mobile & tools">
 </p>
+<p>
+  <strong>Also:</strong> Xcode · DaVinci Resolve
+</p>
 
 | `01` Design | `02` Frontend | `03` Backend |
 | :-- | :-- | :-- |
