@@ -128,4 +128,4 @@ const adrein = {
 
 <a href="mailto:adrein.dev@gmail.com">
   <img src="assets/footer.svg" width="100%" alt="Let’s build something people remember — adrein.dev@gmail.com">
-</a> 
+</a>
