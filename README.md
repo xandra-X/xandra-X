@@ -9,7 +9,7 @@
 </p>
  
 <br>
- 
+
 ### `01 / about` 
 
 > **Not just pixels. Not just code.**
