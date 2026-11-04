@@ -8,7 +8,7 @@
   <a href="https://www.tiktok.com/@adrein_the_dev"><img src="https://img.shields.io/badge/TikTok-@adrein__the__dev-ffffff?style=for-the-badge&labelColor=03040a&logo=tiktok&logoColor=white" alt="TikTok"></a>
 </p>
 
-<br> 
+<br>
 
 ### `01 / about`
 
