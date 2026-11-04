@@ -7,7 +7,7 @@
   <a href="mailto:adrein.dev@gmail.com"><img src="https://img.shields.io/badge/Email-adrein.dev@gmail.com-f5d0fe?style=for-the-badge&labelColor=03040a&logo=gmail&logoColor=f5d0fe" alt="Email"></a>
   <a href="https://www.tiktok.com/@adrein_the_dev"><img src="https://img.shields.io/badge/TikTok-@adrein__the__dev-ffffff?style=for-the-badge&labelColor=03040a&logo=tiktok&logoColor=white" alt="TikTok"></a>
 </p>
-ff
+
 <br>
 
 ### `01 / about` 
