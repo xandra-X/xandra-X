@@ -30,14 +30,13 @@ const adrein = {
 
 ### `02 / stack`
 
+### `02 / stack`
+
 <p>
   <img src="https://skillicons.dev/icons?i=figma,ps,react,nextjs,tailwind,html,css,js,ts&theme=dark" height="44" alt="Design & frontend"><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,python,java,kotlin,swift,threejs,vscode,androidstudio&theme=dark" height="44" alt="Backend, mobile & tools">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,python,java,kotlin,swift,threejs,vscode,androidstudio&theme=dark" height="44" alt="Backend, mobile & tools"><br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=xcode,davinci&theme=dark" height="44" alt="Xcode & DaVinci Resolve">
 </p>
-<p>
-  <strong>Also:</strong> Xcode · DaVinci Resolve
-</p>
-
 | `01` Design | `02` Frontend | `03` Backend |
 | :-- | :-- | :-- |
 | UX research, interface design, prototyping in Figma | React, Tailwind, responsive layouts, interactive experiences | Node.js, APIs, auth, databases, dashboards, deployment |
