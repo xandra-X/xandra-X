@@ -10,7 +10,7 @@
 
 <br>
  
-### `01 / about`
+### `01 / about` 
 
 > **Not just pixels. Not just code.**
 > I create digital products with a designer’s eye and a developer’s execution — interfaces that are clear, smooth, useful, and impossible to ignore.
