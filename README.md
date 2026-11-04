@@ -28,7 +28,6 @@ const adrein = {
 
 <br>
 
-### `02 / stack`
 
 ### `02 / stack`
 
