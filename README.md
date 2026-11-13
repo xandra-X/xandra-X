@@ -34,8 +34,8 @@ const adrein = {
 <p>
   <img src="https://skillicons.dev/icons?i=figma,ps,react,nextjs,tailwind,html,css,js,ts&theme=dark" height="44" alt="Design & frontend"><br>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,python,java,kotlin,swift,threejs,vscode,androidstudio&theme=dark" height="44" alt="Backend, mobile & tools">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=xcode&amp;theme=dark" height="44" alt="Xcode">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=davinci&amp;theme=dark" height="44" alt="DaVinci Resolve">
+  <img src="./assets/xcode.png" width="44" height="44" alt="Xcode">
+  <img src="./assets/davinci-resolve.png" width="44" height="44" alt="DaVinci Resolve">
 </p>
 
 | `01` Design | `02` Frontend | `03` Backend |
